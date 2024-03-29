@@ -1,1 +1,1 @@
-# DA: Customer_Loyalty_Program dashboards on Cognos
+# Data Analytics: Customer Loyalty Program dashboards on Cognos Analytics
