@@ -1,1 +1,3 @@
-# Data Analytics: Customer Loyalty Program dashboards on Cognos Analytics
+# Data Analytics: Visualization on IBM Cognos Analytics
+## Customer Loyalty
+## Movies
